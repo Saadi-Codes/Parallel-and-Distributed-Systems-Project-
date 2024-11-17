@@ -26,7 +26,7 @@ To compile and run the project, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/real-time-traffic-routing-optimization.git
+    git clone https://github.com/Saadi-Codes/Real-time-traffic-routing-optimization.git
     ```
 
 2. Navigate to the project directory:
